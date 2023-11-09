@@ -14,7 +14,7 @@
 
 **Project Manager @ UBONNANAPHAN, Thailand (_Nov 2020 - Mar 2023_)**
 - Analyzed 7.2M transactions to lead sales and marketing campaign for work boots, rising monthly revenue by 10%.
-- Conducted descriptive analysis on data from 10,000 products to identify future promotions, quantify demand and optimize sales campaigns. Utilized such data when settling with 20 manufacturers to diminish production costs by 5%.
+- Conducted descriptive analysis on data from 10,000 products to identify future promotions, quantify demand when settling with 20 manufacturers to diminish production costs by 5%.
 - Implemented data visualizations to monitor stocks of 10,000 products to optimize stock and reduce waste by 30%. 
 - Pioneered a data-driven POS software to track and store sales in real-time, cutting down working hours by 10% and increased yearly revenue by $100K.
 
