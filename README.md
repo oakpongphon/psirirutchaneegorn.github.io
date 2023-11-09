@@ -1,9 +1,10 @@
 # Data Analyst
+
 #### Technical skills: Python, SQL, R, Tableau, Looker Studio, Excel
 
 ## Education
-M.S., Business Analytics | University of California, San Diego (_Anticipated December 2024_)
-B.S., Civil Engineering | Chulalongkorn University (_July 2019_)
+- M.S., Business Analytics | University of California, San Diego (_Anticipated December 2024_)
+- B.S., Civil Engineering | Chulalongkorn University (_July 2019_)
 
 ## Work Experience
 **Data Analyst (internship) @ ZORTOUT, Thailand (_April 2023 - July 2023_)**
