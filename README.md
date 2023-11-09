@@ -9,7 +9,7 @@
 ## Work Experience
 **Data Analyst (internship) @ ZORTOUT, Thailand (_April 2023 - July 2023_)**
 - Initiated automated process regarding data import employing Excel Power Query. Generated a yearly saving by $10K.
-- - Cleaned and wrangled data from 4 monthly reports deploying Python.
+- Cleaned and wrangled data from 4 monthly reports deploying Python.
 - Collaborated with 3 cross-functional teams. Assured both client’s requirements and project execution are aligned on tracks leveraging Jira and Miro. Delivered 5 projects, 50% higher than usual amount. 
 
 **Project Manager @ UBONNANAPHAN, Thailand (_November 2020 - March 2023_)**
