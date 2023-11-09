@@ -18,7 +18,6 @@
 - Implemented data visualizations to monitor stocks of 10,000 products to optimize stock and reduce waste by 30%. 
 - Pioneered a data-driven POS software to track and store sales in real-time, cutting down working hours by 10% and increased yearly revenue by $100K.
 
-
 **Cost Engineer @ AECOM, Thailand (_Aug 2019 - Sep 2020_)**
 - Examined quantities used by contractors for the largest mixed-used project in Southeast Asia, One Bangkok. Identified a $5M disparity between what the contractors had claimed and actual material usage, saving this sum.
 - Provided onboarding training to 6 new colleagues and 2 interns, including data analytics techniques associated with pivot table, advanced functions in Excel, and general preparation for new roles.
