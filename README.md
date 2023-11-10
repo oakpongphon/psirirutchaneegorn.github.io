@@ -35,4 +35,9 @@ Extract, transform and load data from 4 different formats: csv, XML, postgres an
 
 Utilized Finite Element Method and linear regression to evaluate Siriluk Bridge’s capacity regarding concrete and rebar deterioration to withstand earthquakes.
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
+### Optimization of Quant Croissant Production at Rady Tasty Pastry
+[Check it out](https://github.com/oakpongphon/BusOperation_RadytastePastry)
+
+Developed a simulation model using **Python** to identify the optimal production quantity (q) that maximizes profitability while mitigating the risk of surplus or shortage fo Rady Tasty Pastry facing a recurring dilemma concerning the production of their popular Quant Croissants – an imbalance between daily production and customer demand. 
+
+![Rady Tasty Pastry](/assets/croissants.jpg)
