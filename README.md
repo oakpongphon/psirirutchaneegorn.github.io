@@ -40,4 +40,4 @@ Utilized Finite Element Method and linear regression to evaluate Siriluk Bridgeâ
 
 Developed a simulation model using **Python** to identify the optimal production quantity (q) that maximizes profitability while mitigating the risk of surplus or shortage fo Rady Tasty Pastry facing a recurring dilemma concerning the production of their popular Quant Croissants â€“ an imbalance between daily production and customer demand. 
 
-![Rady Tasty Pastry](/assets/croissants.jpg)
+
