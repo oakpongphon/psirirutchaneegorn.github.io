@@ -22,5 +22,17 @@
 - Examined quantities used by contractors for the largest mixed-used project in Southeast Asia, One Bangkok. Identified a $5M disparity between what the contractors had claimed and actual material usage, saving this sum.
 - Provided onboarding training to 6 new colleagues and 2 interns, including data analytics techniques associated with pivot table, advanced functions in Excel, and general preparation for new roles.
 
-### Projects
+## Projects
+### ETL with Snowflake, SQL Project
+[Check it out](https://www.mdpi.com/1424-8220/22/8/3048)
 
+Extract, transform and load data from 4 different formats: csv, XML, postgres and Snowflake Marketplace deploying **Python** including **SQL** codes embedded inside to execute.
+
+![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
+
+### Analysis of Piers under Seismic Loading, Civil Engineering Project
+[Check it out](https://www.mdpi.com/1424-8220/22/8/3048)
+
+Utilized Finite Element Method and linear regression to evaluate Siriluk Bridge’s capacity regarding concrete and rebar deterioration to withstand earthquakes.
+
+![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
