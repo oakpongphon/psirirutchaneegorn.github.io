@@ -24,14 +24,14 @@
 
 ## Projects
 ### ETL with Snowflake, SQL Project
-[Check it out](https://www.mdpi.com/1424-8220/22/8/3048)
+[Check it out]()
 
 Extract, transform and load data from 4 different formats: csv, XML, postgres and Snowflake Marketplace deploying **Python** including **SQL** codes embedded inside to execute.
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
+![EEG Band Discovery]()
 
 ### Analysis of Piers under Seismic Loading, Civil Engineering Project
-[Check it out](https://www.mdpi.com/1424-8220/22/8/3048)
+[Check it out]()
 
 Utilized Finite Element Method and linear regression to evaluate Siriluk Bridge’s capacity regarding concrete and rebar deterioration to withstand earthquakes.
 
